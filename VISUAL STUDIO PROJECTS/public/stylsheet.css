@@ -1,0 +1,16 @@
+body{ 
+    background-color: aqua;
+}
+h1{
+    text-align: center;
+	color: darkblue;
+}
+h5{
+	text-align: right;
+	color: crimson;
+	font-style: italic;
+}
+#nav{
+	align-items: stretch;
+	
+}
